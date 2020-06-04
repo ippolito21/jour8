@@ -1,5 +1,7 @@
 <?php
     include "include/head.php";
+    //var_dump($menu_a_afficher);
+
 ?>
 
   <main>

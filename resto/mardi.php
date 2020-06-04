@@ -1,6 +1,8 @@
 <?php
 
 include "config.php";
+include "contenu.php";
+$menu_a_afficher =$contenuSite["menus"]["mardi"];
 
 $titre = "Menu du Mardi";
 
